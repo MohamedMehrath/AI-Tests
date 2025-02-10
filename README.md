@@ -6,3 +6,5 @@
  better than above but sometimes reach the limits.
 ### gemini-2.0-flash-thinking-exp-01-21:
  Good.
+### gemini-2.0-flash-exp
+ got exhausted after n of searches
