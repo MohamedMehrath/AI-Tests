@@ -1,3 +1,6 @@
+> [!Note]
+> Using: gemini-2.0-flash-thinking-exp-01-21
+
 # Redragon M711 Cobra Gaming Mouse: A Detailed Review
 
 The Redragon M711 Cobra aims to strike a compelling balance in the crowded gaming mouse arena: affordability meets performance.  Positioned as an accessible option for gamers seeking feature-rich peripherals without breaking the bank, the Cobra M711 promises customizable RGB lighting, adjustable DPI, and programmable buttons. But does it truly deliver the bite to back up its "Cobra" moniker, or is it more hiss than substance? This comprehensive review delves into the design, performance, features, and overall value of the Redragon M711 Cobra gaming mouse to determine if it’s a worthy contender for your desk space.
