@@ -8,3 +8,4 @@
  Good.
 ### gemini-2.0-flash-exp
  got exhausted after n of searches
+### gemini-2.0-flash
