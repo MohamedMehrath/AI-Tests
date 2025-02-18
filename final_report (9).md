@@ -1,3 +1,6 @@
+> [!Note]
+> Using: gemini-2.0-flash
+
 ## New Administrative Capital Compound Overview
 
 The New Administrative Capital is rapidly becoming a hub for modern residential compounds, offering a variety of living options and amenities. This report provides a detailed overview of 13 prominent compounds in the New Administrative Capital, extracting key information to facilitate comparison and understanding of each project. The data has been compiled from Flat & Villa website.
